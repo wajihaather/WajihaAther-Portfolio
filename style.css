@@ -1,0 +1,138 @@
+.intro {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 200px; 
+  margin: 50px 20px;
+}
+
+.intro-photo img {
+  width: 280px;
+  height: 395px;
+  border-radius: 10%; 
+  object-fit: cover;
+
+}
+.intro-text h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+  color: black;
+}
+
+.intro-text p {
+  font-size: 1rem;
+  color: black;
+  max-width: 400px;
+}
+
+.about {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 200px; 
+  margin: 50px 20px;
+}
+
+.about-text h1 {
+  font-size: 2rem;
+  margin-bottom: 15px;
+  color: black;
+}
+
+.about-text p {
+  font-size: 1rem;
+  color: black;
+  max-width: 400px;
+}
+
+.about-icon img {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  width: 390px;
+  height: 395px;
+  
+}
+
+.education {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 200px; 
+  margin: 50px 20px;
+}
+
+.education-photo img {
+  width: 380px;
+  height: 395px;
+  border-radius: 10%; 
+  object-fit: cover;
+
+}
+.education-text h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+  color: black;
+}
+
+.education-text p {
+  font-size: 1rem;
+  color: black;
+  max-width: 400px;
+}
+
+.skill {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 200px; 
+  margin: 50px 20px;
+}
+
+.skill-text h1 {
+  font-size: 2rem;
+  margin-bottom: 15px;
+  color: black;
+}
+
+.skill-text p {
+  font-size: 1rem;
+  color: black;
+  max-width: 400px;
+}
+
+.skill-icon img {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  width: 395px;
+  height: 395px;
+  
+}
+
+.projects {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 200px; 
+  margin: 50px 20px;
+}
+
+.project-photo img {
+  width: 390px;
+  height: 395px;
+  border-radius: 10%; 
+  object-fit: cover;
+
+}
+.project-text h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+  color: black;
+}
+
+.project-text p {
+  font-size: 1rem;
+  color: black;
+  max-width: 400px;
+}
